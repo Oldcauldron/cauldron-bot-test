@@ -1,0 +1,4 @@
+org\art\dao\AppUserDAO.class
+org\art\entity\UserState.class
+org\art\entity\AppUser$AppUserBuilder.class
+org\art\entity\AppUser.class

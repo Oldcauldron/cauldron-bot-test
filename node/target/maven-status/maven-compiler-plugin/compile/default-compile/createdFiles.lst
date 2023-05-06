@@ -1,0 +1,12 @@
+org\art\NodeApplication.class
+org\art\service\impl\MainServiceImpl.class
+org\art\entity\RawData$RawDataBuilder.class
+org\art\configuration\RabbitConfiguration.class
+org\art\service\ProducerService.class
+org\art\service\ConsumerService.class
+org\art\service\enums\ServiceCommands.class
+org\art\service\impl\ConsumerServiceImpl.class
+org\art\service\MainService.class
+org\art\entity\RawData.class
+org\art\service\impl\ProducerServiceImpl.class
+org\art\dao\RawDataDao.class
